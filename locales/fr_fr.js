@@ -1,5 +1,5 @@
 /**
- * language: english
+ * language: french
  */
 const lang = {
 
