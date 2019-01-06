@@ -14,21 +14,21 @@ const lang = {
   //app menu
   menu: {
     //mac app
-    hide: 'hide',
+    hide: 'cacher',
     hideothers: 'hide others',
-    unhide: 'unhide',
-    quit: 'quit',
+    unhide: 'visible',
+    quit: 'quitter',
 
     //edit
-    edit: 'edit',
+    edit: 'éditer',
     undo: 'undo',
     redo: 'redo',
-    cut: 'cut',
-    copy: 'copy',
-    paste: 'paste',
+    cut: 'couper',
+    copy: 'copier',
+    paste: 'coller',
     pasteandmatchstyle: 'paste and match style',
-    del: 'delete',
-    selectall: 'select all',
+    del: 'supprimer',
+    selectall: 'tous sélectionner',
     startspeaking: 'start speaking',
     stopspeaking: 'stop speaking',
 
@@ -48,16 +48,16 @@ const lang = {
     minimize: 'minimize',
     maximize: 'maximize',
     unmaximize: 'unmaximize',
-    close: 'close',
+    close: 'fermer',
     restart: 'restart',
     front: 'front',
 
     //help
-    help: 'help',
-    about: 'about',
+    help: 'aide',
+    about: 'à propos de',
     checkUpdate: 'check update',
     reportIssue: 'report issue',
-    homepage: 'homepage'
+    homepage: 'accueil'
   },
 
   //common
@@ -66,22 +66,22 @@ const lang = {
     bookmarks: 'bookmarks',
     bookmarkCategory: 'category',
     setting: 'setting',
-    about: 'about',
+    about: 'à propos de',
     ok: 'ok',
-    cancel: 'cancel',
+    cancel: 'annuler',
     restoreSessions: 'restore sessions from uncorrect shutdown?'
   },
 
   //control buttons
   control: {
-    author: 'author',
-    download: 'download',
+    author: 'autheur',
+    download: 'télécherger',
     bugReport: 'bug report',
     checkForUpdate: 'check for update',
-    homepage: 'homepage',
+    homepage: 'accueil',
     notFoundContent: 'no item',
-    newSsh: 'new ssh',
-    newTerminal: 'new terminal',
+    newSsh: 'nouveau ssh',
+    newTerminal: 'nouveau terminal',
     dependencies: 'dependencies',
     env: 'env',
     os: 'os',
@@ -97,18 +97,18 @@ const lang = {
     startTime: 'start time',
     finishTime: 'finish time',
     speed: 'speed',
-    clear: 'clear'
+    clear: 'effacer'
   },
 
   //ssh tabs
   tabs: {
     titleEmptyWarn: 'title can not be empty',
-    close: 'close',
+    close: 'fermer',
     closeOtherTabs: 'close other tabs',
     closeTabRight: 'close tabs on the right',
     newTab: 'new tab',
-    duplicate: 'duplicate',
-    rename: 'rename',
+    duplicate: 'dupliquer',
+    rename: 'renommer',
     openNewTerm: 'open new terminal'
   },
 
